@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<messagebundle>
+  <msg name="there_are_no_terms">Nenhum termo sendo monitorado no momento.</msg>
+  <msg name="how_many_updates">Exibir Quantas Atualizações Por Página?</msg>
+  <msg name="keywords">Palavras</msg>
+  <msg name="the_terms_you_want_to_keep_track">Os termos que você deseja monitorar, separados por espaço. Use aspas para termos compostos ou frases exatas como "São Carlos".</msg>
+  <msg name="brought_to_you_by">Trazido a você por</msg>
+
+  <msg name="ning">Ning</msg>
+  <msg name="author">Ning</msg>
+  <msg name="terms_of_use">Termos de Uso</msg>
+  <msg name="in_association_with">Em Parceria Com</msg>
+  <msg name="twitter">Twitter</msg>
+  <msg name="JUST_NOW">agora mesmo</msg>
+
+  <msg name="SECOND_AGO">segundo atrás</msg>
+  <msg name="SECONDS_AGO">segundos atrás</msg>
+  <msg name="MINUTE_AGO">minuto atrás</msg>
+  <msg name="MINUTES_AGO">minutos atrás</msg>
+  <msg name="HOUR_AGO">hora atrás</msg>
+  <msg name="HOURS_AGO">horas atrás</msg>
+
+  <msg name="1_DAY_AGO">ha 1 dia</msg>
+</messagebundle>

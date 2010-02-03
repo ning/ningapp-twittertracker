@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<messagebundle>
+  <msg name="there_are_no_terms">There are currently no terms being tracked</msg>
+  <msg name="how_many_updates">How Many Updates Should Display on Your Page?</msg>
+  <msg name="keywords">Terms</msg>
+  <msg name="the_terms_you_want_to_keep_track">The terms you want to track on Twitter. Separate each term with a space, and use quotes for exact phrases like "San Francisco".</msg>
+  <msg name="brought_to_you_by">Brought to you by</msg>
+
+  <msg name="ning">Ning</msg>
+  <msg name="author">Ning</msg>
+  <msg name="terms_of_use">Terms of Use</msg>
+  <msg name="in_association_with">In Association With</msg>
+  <msg name="twitter">Twitter</msg>
+  <msg name="JUST_NOW">just now</msg>
+
+  <msg name="SECOND_AGO">second ago</msg>
+  <msg name="SECONDS_AGO">seconds ago</msg>
+  <msg name="MINUTE_AGO">minute ago</msg>
+  <msg name="MINUTES_AGO">minutes ago</msg>
+  <msg name="HOUR_AGO">hour ago</msg>
+  <msg name="HOURS_AGO">hours ago</msg>
+
+  <msg name="1_DAY_AGO">1 day ago</msg>
+</messagebundle>
