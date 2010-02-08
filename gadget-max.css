@@ -1,0 +1,155 @@
+/*----------COMMON OPENSOCIAL BOILERPLATE GADGETS CSS--------*/
+.gadget {
+    /* is replaced when the skin is applied */
+    background-color: #fff;
+    color: #999;
+    padding:1px;
+    padding-bottom:10px;
+}
+
+.gadget a {
+    /* is replaced when the skin is applied */
+    color: #00f;
+}
+
+
+/*----------NING GADGETS CSS--------*/
+
+.xg_sprite {
+  background-repeat:no-repeat;
+  background-color:transparent;
+  padding-left:20px;
+  line-height:1.65em;
+  *line-height:1.45em;
+  *overflow-y:visible;
+  zoom:1;
+}
+
+.xg_sprite-edit {background-position: left -804px;}
+
+.xg_sprite-setting { background-position: left -3424px; }
+
+#admin-bar {
+    text-align: right; 
+}
+
+a.edit, .edit {
+    background:url(http://os.ning.com/apps/confess/gfx/set_actions.gif) no-repeat 0 -192px;
+    padding-left:17px;
+}
+
+.primary-action{
+    font-weight:bold;
+}
+
+/* Typography */
+.gadget {font-size:12px !important;}
+h1 {font-size:1.4em}
+h2 {font-size:1.3em}
+h3 {font-size:1.2em}
+h4 {font-size:1.1em}
+h1, h2, h3, h4, p {margin:.25em 0 .75em;}
+input.text, select {margin:0 0 .75em;}
+
+/* Spacing */
+ul, ol, li {margin-left:0;padding-left:0;}
+p.buttongroup {
+    margin:0.5em 0;
+    padding-top:.7em;
+    border-top:1px solid #ccc;
+    text-align:right;
+    clear:both;
+    overflow:visible !important;
+}
+
+a.button,
+input.button {
+    display:inline-block;
+    width:auto;
+    border:1px solid #aaa;
+    font-size:1em;
+    text-decoration:none;
+    color:#333;
+    overflow:visible;
+    white-space:nowrap;
+    line-height:1em!important;
+  padding:.35em .6em .45em;
+}
+/* ff2 */
+a.button, x:-moz-any-link {
+  padding:.28em .53em .226em;
+}
+input.button, x:-moz-any-link {
+    padding:.2em .3em .15em;
+}
+/* ff3 */
+a.button, x:-moz-any-link, x:default {
+  padding:.4em .532em .34em;
+}
+input.button, x:-moz-any-link, x:default {
+    padding:.21em .3em .16em;
+}
+/* ie: */
+a.button {
+  *margin-bottom:-.3em;
+    *padding:.3em .57em;
+}
+input.button {
+    *padding:.2em .5em .1em;
+}
+.wide {width:95%;}    
+
+.timestamp {
+margin-left:1em;
+opacity:.5;
+}
+
+li {
+    list-style:none;
+}
+
+.status {
+    margin-top:10px;
+    margin-bottom:0px;
+    border-bottom:thin dotted;
+    padding-bottom:5px;
+    clear:both;
+    height:4em;
+}
+
+.avatar img{
+    height:40px;
+    width:auto;
+    float: left;
+    margin-right: 1em;
+    border:none;
+}
+
+input{
+    margin-bottom:1em;
+}
+
+#sparse-msg{
+    display:none;
+}
+
+#list-title{
+    display:none;
+}
+
+#statuslist{
+    display:none;
+}
+
+#page-navigation{
+    text-align:right;
+}
+
+#pagination-next{
+    display:none;
+}
+
+#pagination-prev{
+    display:none;
+    margin-right:1em;
+}
