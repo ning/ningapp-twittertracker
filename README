@@ -3,7 +3,7 @@ INTRODUCTION
 
 The Twitter Tracker Ning App is an OpenSocial Application which tracks 
 mentions of terms across Twitter using XML, CSS and Javascript, and was 
-specifically built to be run was a Ning App for Ning Networks. 
+specifically built to be run as a Ning App for Ning Networks. 
 (http://www.ning.com)
 
 This Ning App is available under an Apache 2.0 License, as a way to 
@@ -29,7 +29,7 @@ FILE DESCRIPTIONS
 
 INSTALLING THE NING APP TO A LOCAL SERVER FOR DEVELOPMENT
 
-git://github.com/ning/twittertracker.git
+git://github.com/ning/ningapp-twittertracker.git
 
 After cloning the repository, you may copy the code to your own server and 
 add the gadget.xml file to a test Ning Network by URL. As the Javascript and 
@@ -52,4 +52,4 @@ Tracker Ning App:
 
 If you are a Developer and notice a bug or an issue directly related to the 
 code in this repository:
-- http://github.com/ning/twittertracker/issues
+- http://github.com/ning/ningapp-twittertracker/issues
